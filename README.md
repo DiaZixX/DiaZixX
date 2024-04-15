@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ## 💻 Computing skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazixx&layout=donut)](https://github.com/diazixx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazixx&layout=donut&theme=monokai)](https://github.com/diazixx/github-readme-stats)
 
