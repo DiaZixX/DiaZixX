@@ -30,6 +30,7 @@ I’ve been using Neovim as my main IDE for over a year, my full config is avail
 ## Computing skills 💻
 
 The languages I know and use frequntly:
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,rust,java,ocaml,md,latex,lua&theme=dark)](https://skillicons.dev)
 
 <br />
@@ -40,10 +41,14 @@ The languages I know and use frequntly:
 </p>
 
 The tools I use :
+
 [![My Skills](https://skillicons.dev/icons?i=cmake,github,gitlab,opencv,obsidian&theme=dark)](https://skillicons.dev)
 
 Here is my LeetCode stats :
-![](https://leetcard.DiaZixX.cool/DiaZixX?ext=heatmap)
+
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/DiaZixX?ext=heatmap">
+</p>
 
 ## Communicate with me 🤗
 
