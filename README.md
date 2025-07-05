@@ -29,7 +29,7 @@ I’ve been using Neovim as my main IDE for over a year, my full config is avail
 
 ## Computing skills 💻
 
-The languages I know and use frequntly:
+The languages I know and use frequently:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,rust,java,ocaml,md,latex,lua&theme=dark)](https://skillicons.dev)
 
