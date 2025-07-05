@@ -2,7 +2,8 @@
 
 ## About me 💬
 
-Hi there :waving_hand:, my name is Jules, I'm a French student at the Ecole Nationale Supérieure d'Informatique et de Mathématiques Appliquées ([Ensimag](https://ensimag.grenoble-inp.fr/)).
+Hi there 👋, my name is Jules.
+I'm a French student at the Ecole Nationale Supérieure d'Informatique et de Mathématiques Appliquées ([Ensimag](https://ensimag.grenoble-inp.fr/)).
 
 I've been into computer science for about nine years, starting with mod development in Java for Minecraft.
 
@@ -10,15 +11,21 @@ These days, I mostly work on low-level programming in C, with a focus on archite
 
 I'm currently doing an internship in the U.S. at the MAPLE Lab at Vanderbilt University, where I'm working on 3D image reconstruction using OpenCV and other tools.
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)<br />
 I develop exclusively on Linux, using Arch Linux with the Hyprland compositor. 
 My setup is based on the [ML4W configuration](https://github.com/mylinuxforwork/), with additional custom tweaks.
 My personal dotfiles are available here: [link].
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-I’ve been using Neovim as my main IDE for over a year — my full config is available here: [link].
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)<br />
+I’ve been using Neovim as my main IDE for over a year, my full config is available here: [link].
 
-[![DiaZixX's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazixx&theme=monokai)](https://github.com/diazixx/github-readme-stats)
+<!--[![DiaZixX's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazixx&theme=monokai)](https://github.com/diazixx/github-readme-stats)-->
+<p align="center">
+  <a href="https://github.com/diazixx/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=diazixx&theme=monokai" alt="DiaZixX's GitHub stats">
+  </a>
+</p>
+
 
 ## Communicate with me 🤗
 
