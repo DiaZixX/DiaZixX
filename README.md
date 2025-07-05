@@ -26,15 +26,23 @@ I’ve been using Neovim as my main IDE for over a year, my full config is avail
   </a>
 </p>
 
-
 ## Communicate with me 🤗
+
+If you want to contact me, here are the different ways:
+
+![Discord](https://img.shields.io/badge/Discord-@diazixx-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<div>
+    <a href="julesbodin04@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div>
 
 Language | Level     | Comment
 ---------|-----------|--------
-French   | Native    | My native language
-English  | Bilingual | I am very fluent in English and practice every day
-Italian  | Fluent    | I practiced for 7 years but I stopped for a while
-Japanese | Learning  | I started in 2024
+🇫🇷 French   | Native    | My native language
+🇺🇸 English  | Bilingual | I am very fluent in English and practice every day
+🇮🇹 Italian  | Fluent    | I practiced for 7 years but I stopped for a while
+🇯🇵 Japanese | Learning  | I started in 2024
 
 ## Computing skills 💻
 
@@ -58,7 +66,6 @@ Japanese | Learning  | I started in 2024
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
