@@ -19,12 +19,31 @@ My personal dotfiles are available here: [link].
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)<br />
 I’ve been using Neovim as my main IDE for over a year, my full config is available here: [link].
 
+<br />
 <!--[![DiaZixX's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazixx&theme=monokai)](https://github.com/diazixx/github-readme-stats)-->
 <p align="center">
   <a href="https://github.com/diazixx/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=diazixx&theme=monokai" alt="DiaZixX's GitHub stats">
   </a>
 </p>
+
+## Computing skills 💻
+
+The languages I know and use frequntly:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,rust,java,ocaml,md,latex,lua&theme=dark)](https://skillicons.dev)
+
+<br />
+<p align="center">
+  <a href="https://github.com/diazixx/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazixx&layout=donut&theme=monokai" alt="DiaZixX's Top Langs">
+  </a>
+</p>
+
+The tools I use :
+[![My Skills](https://skillicons.dev/icons?i=cmake,github,gitlab,opencv,obsidian&theme=dark)](https://skillicons.dev)
+
+Here is my LeetCode stats :
+![](https://leetcard.DiaZixX.cool/DiaZixX?ext=heatmap)
 
 ## Communicate with me 🤗
 
@@ -39,38 +58,4 @@ Language | Level     | Comment
 🇺🇸 English  | Bilingual | I am very fluent in English and practice every day
 🇮🇹 Italian  | Fluent    | I practiced for 7 years but I stopped for a while
 🇯🇵 Japanese | Learning  | I started in 2024
-
-## Computing skills 💻
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Zsh" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="OCaml" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Makefile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
-<!-- <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> -->
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<!-- Badges -->
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazixx&layout=donut&theme=monokai)](https://github.com/diazixx/github-readme-stats)
 
