@@ -31,11 +31,7 @@ I’ve been using Neovim as my main IDE for over a year, my full config is avail
 If you want to contact me, here are the different ways:
 
 ![Discord](https://img.shields.io/badge/Discord-@diazixx-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-<div>
-    <a href="julesbodin04@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>
+![Gmail](https://img.shields.io/badge/Gmail-julesbodin04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Language | Level     | Comment
 ---------|-----------|--------
