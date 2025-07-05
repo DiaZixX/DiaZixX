@@ -14,10 +14,10 @@ I'm currently doing an internship in the U.S. at the MAPLE Lab at Vanderbilt Uni
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)<br />
 I develop exclusively on Linux, using Arch Linux with the Hyprland compositor. 
 My setup is based on the [ML4W configuration](https://github.com/mylinuxforwork/), with additional custom tweaks.
-My personal dotfiles are available here: [link].
+My personal dotfiles are available [here](https://github.com/DiaZixX/DiaZixX/tree/main/hypr-dotfiles).
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)<br />
-I’ve been using Neovim as my main IDE for over a year, my full config is available here: [link].
+I’ve been using Neovim as my main IDE for over a year, my full config is available [here](https://github.com/DiaZixX/DiaZixX/tree/main/nvim).
 
 <br />
 <!--[![DiaZixX's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazixx&theme=monokai)](https://github.com/diazixx/github-readme-stats)-->
